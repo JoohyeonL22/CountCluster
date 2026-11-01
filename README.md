@@ -10,16 +10,27 @@
 
 ## library Installation
 torch
+
 diffusers
+
 transformers
+
 accelerate
+
 numpy
+
 scipy
+
 scikit-learn
+
 scikit-image
+
 opencv-python
+
 pillow
+
 matplotlib
+
 inflect
 
 
