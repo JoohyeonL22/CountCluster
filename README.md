@@ -8,8 +8,7 @@
 - NVIDIA GPU with more than 20GB VRAM
 - PyTorch >= 2.1
 
-library Installation
-
+## library Installation
 torch
 diffusers
 transformers
@@ -25,5 +24,5 @@ inflect
 
 
 
-run command
+## run command
 python run.py
